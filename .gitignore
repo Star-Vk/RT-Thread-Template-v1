@@ -1,0 +1,15 @@
+# dot files
+/MDK-ARM/.vscode/launch.json
+/MDK-ARM/.settings
+/MDK-ARM/.eide/log
+/.eide.usr.ctx.json
+
+# project out
+/MDK-ARM/build
+/MDK-ARM/bin
+/MDK-ARM/obj
+/MDK-ARM/out
+
+# eide template
+*.ept
+*.eide-template
